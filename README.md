@@ -13,3 +13,10 @@ You can click the Preview link to take a look at your changes.
         <img align="center" src="https://github.com/Serg-Shar/github-stats/blob/master/generated/languages.svg" />
     </a>
 </div>
+
+<br />
+
+![Android](https://img.shields.io/badge/Android-05122A?style=flat&logo=android)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java) 
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin) 
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase) 
